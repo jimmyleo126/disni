@@ -1,3 +1,9 @@
 作者测试用的最新装的centos7
 里面没有任何依赖，一切从最原始开始
 里面安装了VIM、AUTOCONF、AUTOMAKE、LIBTOOL、LIBIBVERBS、LIBIBVERBS-DEVEL
+可将下面依赖排除在外:
+gpm-libs-1.20.7-6.el7.x86_64.rpm
+libibverbs-utils-22.4-2.el7_8.x86_64.rpm
+vim-common-7.4.629-6.el7.x86_64.rpm
+vim-enhanced-7.4.629-6.el7.x86_64.rpm
+vim-filesystem-7.4.629-6.el7.x86_64.rpm
