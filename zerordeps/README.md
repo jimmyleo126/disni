@@ -1,0 +1,3 @@
+作者测试用的最新装的centos7
+里面没有任何依赖，一切从最原始开始
+里面安装了VIM、AUTOCONF、AUTOMAKE、LIBTOOL、LIBIBVERBS、LIBIBVERBS-DEVEL
