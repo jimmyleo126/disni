@@ -1,0 +1,1 @@
+尝试解决rpmlib(FileDigests) <= 4.6.0-1问题
